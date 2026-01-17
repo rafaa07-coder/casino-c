@@ -12,7 +12,7 @@ A simple console-based casino game in C with **Blackjack, Slots, and Roulette**.
    - Or clone with Git:
 
    ```bash
-   git clone https://github.com/teunome/casino.git
+   git clone https://github.com/yourname/casino.git
    cd casino
 Make sure you have a C compiler installed
 
