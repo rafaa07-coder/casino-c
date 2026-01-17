@@ -1,13 +1,3 @@
-//Este código está imcompleto,é apenas um teste de um casino
-//TO DO:
-	//regras slots
-	//Roleta e as regras dela
-//Feito:
-	//slots
-	//Blackjack
-	//menu
-	//regras do blackjack
-	//Saldo acessivel atraves do menu(1000$)
 #include<stdio.h>
 #include<locale.h>
 main()
